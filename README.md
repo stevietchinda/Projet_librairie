@@ -8,7 +8,7 @@ des librairies Python, de gérer des bases de données SQL et de structurer votr
 manière optimale. Ce logiciel sera sans interface graphique (CLI) et permettra de gérer trois
 entités principales : Livre, Auteur et Commande.
 
-**Objectifs du Projet:**
+**Objectifs du Projet:*
 
 1. **Maîtrise du Code Python:** Écrire du code Python clair, concis et efficace.
 2. **Modularité:** Diviser le projet en modules pour faciliter la maintenance et la réutilisation

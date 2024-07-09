@@ -56,8 +56,8 @@ class Author:
             print(err)
             return 1, str(err)
         
-@staticmethod
-def get_author_ids():
+    @staticmethod
+    def get_author_ids():
         connexion = connect_to_db()
         if connexion:
             c = connexion.cursor()
